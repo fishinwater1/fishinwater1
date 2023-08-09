@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @fishinwater1
-- 
 - a fish in the water
 <!---
 fishinwater1/fishinwater1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
